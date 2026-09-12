@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Turning raw data into decisions — end to end, from EDA and feature engineering through model deployment.
+ from EDA and model deployment to building agentic AI systems, end to end.
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 I'm a B.Tech graduate in **Artificial Intelligence and Data Science** (CGPA 8.5, 2026), currently working as a **Database Tester** while building full-stack data and ML products on the side — from predictive models trained on large real-world datasets to agentic AI systems and interactive dashboards. I enjoy owning a problem end to end: cleaning messy data, building the model, shipping the API, and making the result usable for someone else.
 
-**Currently open to Data Analyst, Data Scientist, and ML Engineer roles (internships and full-time).**
+**Currently open to Data Analyst, Data Scientist, and AI/ML Engineer roles .**
 
 ---
 
